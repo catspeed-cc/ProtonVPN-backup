@@ -1,6 +1,7 @@
 #!/usr/bin/bash
 
 mkdir -p remote-repos
+mkdir -p backups
 
 cd remote-repos
 
