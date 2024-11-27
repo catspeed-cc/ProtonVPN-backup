@@ -3,7 +3,7 @@
 mkdir -p remote-repos
 mkdir -p backups
 
-cd ../remote-repos
+cd remote-repos
 
 echo ""
 echo "Updating ProtonVPN repositories..."
