@@ -70,7 +70,7 @@ sleep 30
 cd ../python-proton-vpn-network-manager-wireguard
 git pull --ff-only
 sleep 30
-cd ../.github dot-github
+cd ../dot-github
 git pull --ff-only
 sleep 30
 cd ../proton-vpn-settings
