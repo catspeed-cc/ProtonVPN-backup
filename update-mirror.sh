@@ -97,7 +97,7 @@ sleep 30
 cd ../scripts
 git pull --ff-only
 
-cd ../
+cd ../../
 
 TIMESTAMP=$(date +"%Y-%M-%d-%H-%M-%S")
 tar cfz ./backups/proton-backup-${TIMESTAMP}.tar.gz ./remote-repos/*
