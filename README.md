@@ -1,6 +1,6 @@
-# ProtonVPN-mirror
+# ProtonVPN-backup
 
-A repository to backup and make copies of ProtonVPN source code
+A script to backup and make copies of ProtonVPN github repositories
 
 Why? Because ProtonVPN is openly making use of open source projects using the GPL but wants to prohibit anyone from making forks of their repositories and modifying the code (and running modified code or taking snippets). This is a clear violation of the GPL v3.0 license which ProtonVPN uses inside their own projects.
 
